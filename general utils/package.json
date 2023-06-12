@@ -1,0 +1,18 @@
+{
+  "name": "polygon",
+  "version": "1.0.0",
+  "description": "polygon network functions",
+  "main": "Polygon.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@maticnetwork/maticjs": "^3.6.0-beta.11",
+    "@maticnetwork/maticjs-ethers": "^1.0.3",
+    "@maticnetwork/maticjs-web3": "^1.0.4",
+    "alchemy-sdk": "^2.7.0",
+    "web3": "^1.9.0"
+  }
+}

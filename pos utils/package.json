@@ -1,0 +1,16 @@
+{
+  "name": "pos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "pos.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@maticnetwork/maticjs": "^3.6.0-beta.11",
+    "@maticnetwork/maticjs-web3": "^1.0.4",
+    "@truffle/hdwallet-provider": "^2.1.9"
+  }
+}
